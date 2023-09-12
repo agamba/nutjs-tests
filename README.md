@@ -1,6 +1,6 @@
 # nutjs-tests
 
-This repository includes various tests exploring how to communicate from nodeJS with other applications. It includes examples for controlling **keyboad, mouse, Clipboard and screen capture** using the module **@nut-tree/nut-js**
+This repository includes various tests exploring how to communicate from nodeJS with other applications. It includes examples for controlling **keyboad, mouse, Clipboard and screen capture** using the module **[@nut-tree/nut-js](https://www.npmjs.com/package/@nut-tree/nut-js)**
 
 # Installation
 
